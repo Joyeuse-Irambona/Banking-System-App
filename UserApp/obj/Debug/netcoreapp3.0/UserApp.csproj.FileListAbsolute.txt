@@ -1,0 +1,11 @@
+C:\Users\user\RiderProjects\UserApp\UserApp\bin\Debug\netcoreapp3.0\UserApp.exe
+C:\Users\user\RiderProjects\UserApp\UserApp\bin\Debug\netcoreapp3.0\UserApp.deps.json
+C:\Users\user\RiderProjects\UserApp\UserApp\bin\Debug\netcoreapp3.0\UserApp.runtimeconfig.json
+C:\Users\user\RiderProjects\UserApp\UserApp\bin\Debug\netcoreapp3.0\UserApp.runtimeconfig.dev.json
+C:\Users\user\RiderProjects\UserApp\UserApp\bin\Debug\netcoreapp3.0\UserApp.dll
+C:\Users\user\RiderProjects\UserApp\UserApp\bin\Debug\netcoreapp3.0\UserApp.pdb
+C:\Users\user\RiderProjects\UserApp\UserApp\obj\Debug\netcoreapp3.0\UserApp.csprojAssemblyReference.cache
+C:\Users\user\RiderProjects\UserApp\UserApp\obj\Debug\netcoreapp3.0\UserApp.AssemblyInfoInputs.cache
+C:\Users\user\RiderProjects\UserApp\UserApp\obj\Debug\netcoreapp3.0\UserApp.AssemblyInfo.cs
+C:\Users\user\RiderProjects\UserApp\UserApp\obj\Debug\netcoreapp3.0\UserApp.dll
+C:\Users\user\RiderProjects\UserApp\UserApp\obj\Debug\netcoreapp3.0\UserApp.pdb
